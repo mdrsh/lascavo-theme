@@ -1,0 +1,30 @@
+{
+  "name": "lascavo",
+  "displayName": "Lascavo Theme",
+  "description": "Neutral dark theme, calm colors",
+  "version": "0.1",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "icon": "lascavo-icon.png",
+  "author": {
+    "name": "mdrsh",
+    "email": "vmdrsh@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/mdrsh/lascavo-theme.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lascavo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lascavo-color-theme.json"
+      }
+    ]
+  }
+}
