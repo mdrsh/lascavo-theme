@@ -2,7 +2,8 @@
   "name": "lascavo",
   "displayName": "Lascavo Theme",
   "description": "Neutral dark theme, calm colors",
-  "version": "0.2.1",
+  "version": "0.2.5",
+  "publisher": "mdrsh",
   "engines": {
     "vscode": "^1.45.0"
   },
