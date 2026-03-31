@@ -1,4 +1,4 @@
-# Lascavo Theme for VS Code
+# Lascavo Dakr Theme for VS Code
 
 A carefully crafted, neutral dark theme designed for long coding sessions. Lascavo balances calm, low-contrast backgrounds with logical, highly specific syntax highlighting to help you read code faster and reduce eye strain.
 
